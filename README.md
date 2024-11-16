@@ -1,3 +1,4 @@
+# Date: 07.11.2024
 # EX_13_THREAD
 ## AIM:
 To develop a thread synchronization concept with the help of clicking the button in Android Studio.
@@ -121,7 +122,8 @@ public class MainActivity extends AppCompatActivity {
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <!-- A button to increment the count -->
+    <!-- A button to increment the count)
+ -->
     <Button
         android:id="@+id/increment_button"
         android:layout_width="wrap_content"
@@ -136,9 +138,7 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT
-
-<img src="https://github.com/user-attachments/assets/8959ab62-39b5-4d81-b029-200b2f5ab089" width="50%" height="100%">
-
+<img src="https://github.com/user-attachments/assets/93d8fd70-a91c-4d10-8530-7b917332ffde" width="200">
 
 ## RESULT
 The application is successfully displayed for thread synchronization concept with the help of clicking the button in Android Studio.
